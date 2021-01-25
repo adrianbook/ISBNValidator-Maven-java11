@@ -5,6 +5,8 @@
   <!-- This is a test line to see if jenkins will be triggered. -->
   <!--  See http://maven.apache.org/pom.html for a full description of all supported values -->
 
+ <!-- HORA -->
+
   <!-- GroupID - identifies WHO is making the project -->
   <groupId>com.yrgo.isbntools</groupId>
 
