@@ -5,8 +5,8 @@ public class Book {
 	private String title;
 	private String author;
 	
-	public Book(String isbn, String title, String author) {
-		this.isbn= isbn;
+	public Book(String isb, String title, String author) {
+		this.isbn= isb;
 		this.title= title;
 		this.author= author;
 	}
